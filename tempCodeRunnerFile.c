@@ -1,0 +1,1 @@
+printf("    and the count is %d",a);
